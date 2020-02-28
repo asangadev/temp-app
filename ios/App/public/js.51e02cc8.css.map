@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.scss"],"names":[],"mappings":"AAAA,KACE,sBAEA,QACE,WAGF,SACE","file":"js.51e02cc8.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: #eee;\n\n  h1 {\n    color: #333;\n  }\n\n  img {\n    max-width: 420px;\n  }\n}\n"]}
