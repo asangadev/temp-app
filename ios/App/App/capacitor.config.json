@@ -1,0 +1,21 @@
+{
+  "appId": "au.com.retailzoobeta.betaapp",
+  "appName": "Sample App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  },
+  "cordova": {
+    "preferences": {
+      "com.appboy.api_key": "7edb6d09-885b-461a-9d0d-bd84b96e3ba2",
+      "com.appboy.ios_api_endpoint": "sdk.iad-03.braze.com",
+      "com.appboy.ios_disable_automatic_push_registration": "false",
+      "com.appboy.enable_location_collection": "true",
+      "com.appboy.geofences_enabled": "true"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <access origin="*" />
+  
+  <feature name="AppboyPlugin">
+    <param name="ios-package" value="AppboyPlugin"/>
+    <param name="onload" value="true"/>
+  </feature>
+
+  
+  <preference name="com.appboy.api_key" value="7edb6d09-885b-461a-9d0d-bd84b96e3ba2" />
+  <preference name="com.appboy.ios_api_endpoint" value="sdk.iad-03.braze.com" />
+  <preference name="com.appboy.ios_disable_automatic_push_registration" value="false" />
+  <preference name="com.appboy.enable_location_collection" value="true" />
+  <preference name="com.appboy.geofences_enabled" value="true" />
+</widget>
